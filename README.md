@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimPGamer
 - 👀 I’m interested in Python, Java, Minecraft, CS2
-- 🌱 I’m currently learning for my Math exams
+- 🌱 I’m currently developing a custom Minecraft Server for me and my friends
 - 💞️ I’m looking to collaborate on picamera-webgui
 - 📫 Reach me on Discord: @timpgamer
 - 😄 Pronouns: He/Him
